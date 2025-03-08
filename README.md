@@ -14,10 +14,6 @@ The simulation orechestrates:
  3. Pollinator Behavior: Supports color-based matching and monthly activity ranges.
  4. Visuals: Leverages Plotly for detailed charts and 2D scatter plots.
 
-# Getting Started
-Prerequisites
-- Python 3.7+
-
 # Data Requirements
 You'll need four CSV files
  1. plants.csv
