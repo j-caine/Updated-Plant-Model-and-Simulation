@@ -1,0 +1,41 @@
+﻿Symbol,Name,Growth Rate,Seedling Establishment,Competition Effect,Water Use,Light Requirement,Pollinator Dependency,Bloom Time,Bloom color,Max Height/Spread (in Ft.),Normalized Height (0-1),Height Scale (0-5)
+ACMIO,Western Yarrow,3,4,-2,2,1,1,Apr-Jul,White,3,0.03,0.16
+ACNE2,Boxelder,4,4,-1,2,2,0,Mar-Apr,"Yellow, Green, Brown",75,0.94,4.68
+ACRU,Red Maple,4,5,-2,3,1,0,Mar-Apr,"Red, Yellow",70,0.87,4.37
+AMAR3,Common Serviceberry,3,2,-2,2,1,1,Feb-May,White,25,0.31,1.54
+AMFR,False Indigo Bush,3,3,-1,1,1,1,Apr-Jun,"Orange, Blue, Purple, Violet",10,0.12,0.6
+ASCA,Canadian Wildginger,2,2,-3,2,1,1,Apr-Jun,"Red, Green, Puple, Brown",0.5,0,0
+ASTR,Butterfly Milkweed,3,4,-2,2,1,1,May-Sep,"White, Red, Yellow, Purple",3,0.03,0.16
+ASTU,Pawpaw,2,3,-3,1,2,1,Apr-May,"Orange, Yellow",35,0.43,2.17
+BENI,River Birch,4,3,-1,3,1,0,Feb-Mar,"Green, Brown",70,0.87,4.37
+BICA,Crossvine,4,3,-1,2,1,1,Mar-May,"Red, Yellow",50,0.62,3.11
+CAAM2,American Beautyberry,3,4,-1,1,1,1,May-Jul,"White, Pink",8,0.09,0.47
+CABI8,Southern Catalpa,4,4,-1,1,1,1,May-Jun,White,60,0.75,3.76
+CACA18,American Hornbeam,2,3,-3,2,1,0,Mar-May,"Red, Green, Brown",35,0.43,2.17
+CARA2,Trumpet Creeper,4,4,-4,1,2,1,Jun-Sep,"Red, Orange, Yellow",40,0.5,2.49
+CEAM,New Jersey Tea,3,3,-2,2,1,1,Mar-Aug,White,3,0.03,0.16
+CECA4,Eastern Redbud,3,2,-2,1,1,1,Mar-May,Pink,30,0.37,1.85
+COFL2,Flowering Dogwood,3,3,-2,1,1,1,Mar-Jun,"White, Pink, Yellow, Green",25,0.31,1.54
+ERPH,Philadelphia Fleabane,3,4,-1,2,1,1,Mar-Aug,"White, Pink, Yellow, Purple",3,0.03,0.16
+FRAM2,White Ash,3,3,-2,3,1,0,Apr-May,"Yellow, Purple",80,1,5
+HEHE5,Smooth Oxeye,3,3,-1,1,1,1,Jun-Sep,Yellow,5,0.06,0.28
+JUTE,Poverty Rush,4,4,0,2,1,0,Mar-Jun,"Green, Brown",1,0.01,0.03
+LIST2,Sweet Gum,3,2,-1,3,1,0,Mar-May,"White, Green",75,0.94,4.68
+MAVI2,Sweetbay,2,3,-2,3,1,1,Apr-Jul,White,50,0.62,3.11
+MOFI,Wild Bergamot,4,4,-3,2,1,1,May-Oct,"White, Pink, Purple",4,0.04,0.22
+MORU2,Red Mulberry,3,3,-2,2,1,0,Mar-Aug,"White, Red, Green, Brown",70,0.87,4.37
+NYSY,Blackgum,2,3,0,2,1,1,Apr-Jun,"White, Green, Brown",50,0.62,3.11
+OEBI,Common Evening Primrose,4,5,-4,2,1,1,Jul-Oct,Yellow,4,0.04,0.22
+PADI6,Knotgrass,4,5,-4,3,2,0,Jul-Aug,"Green, Brown",1,0.01,0.03
+PRAM,American Plum,3,3,-2,2,1,1,Apr-Jun,White,25,0.31,1.54
+PRSES,Black Cherry,3,4,-3,2,2,1,Mar-May,White,80,1,5
+RHAR2,Fragrant Sumac,3,4,-3,1,1,1,Apr-Jun,Yellow,6,0.07,0.35
+ROPS,Black Locust,5,5,-5,2,2,1,Apr-Jun,White,70,0.87,4.37
+SAHU2,Prairie Willow,3,4,-3,3,2,0,Jan-Jun,"White, Yellow, Green, Purple, Brown",9,0.11,0.54
+SANI,Black Willow,5,5,-4,3,1,0,Feb-Jun,Yellow,70,0.87,4.37
+SCSC,Little Bluestem,3,4,-2,1,1,0,Jun-Dec,"White, Green, Brown",4,0.04,0.22
+SONU2,Indiangrass,4,4,-3,2,1,1,Aug-Oct,Yellow,6,0.07,0.35
+TIAM,American Basswood,3,3,-2,2,1,1,Apr-Jul,Yellow,80,1,5
+TRDA3,Eastern Gamagrass,4,3,-3,3,1,0,Apr-Sep,Brown,8,0.09,0.47
+VACO,Highbush Blueberry,2,2,-2,2,1,1,Mar-Jun,"White, Pink",12,0.15,0.72
+VIAC,Mapleleaf Viburnum,2,3,-1,2,1,1,Apr-Aug,White,6,0.07,0.35
